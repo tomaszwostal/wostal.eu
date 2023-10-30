@@ -1,0 +1,4 @@
+baseURL = 'https://wostal.eu/'
+languageCode = 'en-us'
+title = 'Tomasz Wostal'
+theme = 'hermit-v2'

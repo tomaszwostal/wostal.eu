@@ -1,7 +1,7 @@
 ---
 title: "Wprowadzenie do Kind"
 date: 2023-11-01T21:50:43+01:00
-draft: true
+draft: false
 toc: true
 images:
 tags: 

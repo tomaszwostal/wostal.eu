@@ -4,3 +4,36 @@ title = 'Tomasz Wostal'
 theme = 'hermit-v2'
 
 googleAnalytics = 'G-PFPR77QWX7'
+
+[author]
+  name = "Tomasz Wostal"
+#  about = "about-hugo"
+
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 10
+
+  # [[menu.main]]
+  #   name = "About"
+  #   url = "about-hugo/"
+  #   weight = 20
+
+[params]
+  homeSubtitle = "The lazy genius"
+  
+  [[params.social]]
+    name = "x"
+    url = "https://twitter.com/tomasz_wostal"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/tomaszwostal"
+
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/tomaszwostal"
+
+

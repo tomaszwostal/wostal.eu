@@ -3,7 +3,11 @@ languageCode = 'en-us'
 title = 'Tomasz Wostal'
 theme = 'hermit-v2'
 
-googleAnalyticsID = 'G-T7LE7C2JXM'
+#googleAnalytics = 'G-T7LE7C2JXM'
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-T7LE7C2JXM'
 
 [author]
   name = "Tomasz Wostal"

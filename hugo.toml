@@ -2,6 +2,7 @@ baseURL = 'https://wostal.eu/'
 languageCode = 'en-us'
 title = 'Tomasz Wostal'
 theme = 'hermit-v2'
+googleAnalytics = "G-T7LE7C2JXM"
 
 [services]
   [services.googleAnalytics]
